@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, serif;
+    background: linear-gradient(to right, #111827, #1f2937);
+    color: white;
+}
+
+.container {
+    text-align: center;
+    margin-top: 150px;
+}
